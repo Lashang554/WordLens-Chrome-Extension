@@ -1,0 +1,7 @@
+{
+  "name": "WordLens",
+  "short_name": "WordLens",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": []
+}
